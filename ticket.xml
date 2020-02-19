@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<transaction>
+    <customerName>jenifer charles</customerName>
+    <noOfPassenger>5</noOfPassenger>
+    <totalCost>600.0</totalCost>
+    <trainNo>6338</trainNo>
+</transaction>
